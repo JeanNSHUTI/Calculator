@@ -4,7 +4,6 @@ ConsoleApplication3 functions as a calculator. This calculator implements the fo
 
 a)Addition b)Subtraction c)Multiplication d)Division e)Minimum f) Maximum g)Cosinus/Sinus h)Derivation
 
-Attention: This calculator does not implement the rules of BODMAS !
 ConsoleApplication3 references the assembly called 'ClassLibrary1.dll
 All new mathematical functions should be added to this library class and inherit from the interface Computer.
 
